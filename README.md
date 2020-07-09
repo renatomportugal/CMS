@@ -2,5 +2,5 @@
 Content management system<br>
 
 ## Index
-##### Ghost
+#### Ghost
 https://github.com/renatomportugal/CMS/blob/master/ghost.md<br>
