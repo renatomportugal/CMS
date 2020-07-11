@@ -18,5 +18,6 @@ https://docs.filerun.com/docker<br>
 https://hub.docker.com/r/pydio/cells<br>
 https://hub.docker.com/r/evns/grav/<br>
 https://hub.docker.com/r/wyveo/craftcms-docker/<br>
+docker pull intelliants/php7.2-fpm-subrion<br>
 <br>
 
